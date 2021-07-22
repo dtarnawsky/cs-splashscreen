@@ -11,7 +11,7 @@ Under `dependencies` add:
 `implementation 'com.android.support:design:27.1.1'`
 
 In your Ionic Application open `capacitor.config.ts` and add:
-```json
+```Typescript
 plugins: {
     SplashScreen: {
       layoutName: 'mysplash',
