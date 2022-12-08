@@ -7,7 +7,7 @@ android {
     }
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "io.ionic.starter"
+        applicationId "io.ionic.splash.screen"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

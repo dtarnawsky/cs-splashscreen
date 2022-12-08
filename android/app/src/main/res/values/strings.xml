@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">cs-splashscreen</string>
-    <string name="title_activity_main">cs-splashscreen</string>
+    <string name="app_name">splash</string>
+    <string name="title_activity_main">splash</string>
     <string name="package_name">io.ionic.starter</string>
     <string name="custom_url_scheme">io.ionic.starter</string>
     <string name="dummy_button">Dummy Button</string>

@@ -17,7 +17,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-import io.ionic.starter.databinding.MysplashBinding;
+import io.ionic.splash.screen.databinding.MysplashBinding;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
